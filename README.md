@@ -1,0 +1,2 @@
+Hi! This is some code that I've worked on. The "analyse" code was written by Christian Henningsen and myself is not functional by itself, because I'm unable to add the dataset because it is too large (>100Gb). So if you run it, it will break.
+Because most of the things I've coded so far were just short snippets for homework which I didn't collect anywhere, I will make a 'showcase' project and upload it here in the coming days
